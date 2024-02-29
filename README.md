@@ -1,4 +1,4 @@
-# CLI - Command Line Interface
+# Atenção - Todas as ferramentas serão reescritas em Go.
 
 ### O Repositório está em expansão constante.
 
